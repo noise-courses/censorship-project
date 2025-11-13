@@ -9,7 +9,7 @@ report.  Here are some things you may wish to include.
 **1. Project Title and Team**
 
 -   **Provide a title for your project**
--   List all members of your team (full names and CNET IDs). The ideal
+-   List all members of your team (full names). The ideal
     number of group members is 2-3; please reach out to the staff if you
     need an exception on this and justify it in your proposal. In the
     above template, you can drop this in simply as the author list.
